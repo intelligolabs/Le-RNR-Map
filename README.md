@@ -1,4 +1,4 @@
-# Original Implementation of Renderable Neural Radiance Map for Visual Navigation‬
+# Original Implementation of Renderable Neural Radiance Map for Visual Navigation
 <h1 align="center">
 Renderable Neural Radiance Map <br> for Visual Navigation‬ 
 </h1>
@@ -9,6 +9,12 @@ Renderable Neural Radiance Map <br> for Visual Navigation‬
 
 
 ---
+---
+---
 
-# Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field Maps with Natural Language.
-## TODO
+<h1 align="center">
+Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field Maps with Natural Language.
+</h1>
+
+## Code
+Code available soon.
