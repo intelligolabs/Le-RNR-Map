@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="description"
         content="Le-RNR-map">
-  <meta name="keywords" content="SCENE-pathy, Visual Selective Attention">
+  <meta name="keywords" content="RNR-map, Le-RNR-map">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Le-RNR-map</title>
 
@@ -38,7 +38,7 @@
   </div>
   <div class="navbar-menu">
     <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
-      <a class="navbar-item" href="">
+      <a class="navbar-item" href="https://intelligolabs.net/">
       <span class="icon">
           <i class="fas fa-home"></i>
       </span>
@@ -48,11 +48,11 @@
         <a class="navbar-link">
           More Research
         </a>
-        <!-- <div class="navbar-dropdown">
-          <a class="navbar-item" href="">
-           
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://intelligolabs.net/blog/">
+            IntelligoLabs Projects
           </a>
-        </div> -->
+        </div>
       </div>
     </div>
 
@@ -69,31 +69,46 @@
           <div class="is-size-5 publication-authors">
          
             <span class="author-block">
-              Anonymous author<sup>1</sup>
+              <a href="https://francescotaioli.github.io/">Francesco Taioli</a>,
+            </span>
+      
+            <span class="author-block">
+              <a href="http://www.cunico.net/">Federico Cunico</a>,</span>
+
+            <span class="author-block">
+              <a href="https://federicogirella.github.io/">Federico Girella</a>,</span>
+             <span class="author-block">
+              Riccardo Bologna,
+            </span>
+            <span class="author-block">
+              Alessandro Farinelli,
+            </span>
+              <span class="author-block">
+              Marco Cristani
             </span>
           </div>
 
           <div class="is-size-5 publication-authors">
-            <span class="author-block"><sup>1</sup> Anonymous institution</span>
+            <span class="author-block"> University of Verona</span>
           </div>
 
           <div class="column has-text-centered">
             <div class="publication-links">
               <!-- PDF Link. -->
-              <!-- <span class="link-block">
-                <a href="https://arxiv.org/pdf/2011.12948"
+              <span class="link-block">
+                <a href=""
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-file-pdf"></i>
                   </span>
-                  <span>Paper</span>
+                  <span>arxiv (soon)</span>
                 </a>
-              </span> -->
+              </span>
               
               
               <!-- Code Link. -->
               <span class="link-block">
-                <a href=""
+                <a href="https://github.com/intelligolabs/Le-RNR-Map/tree/main"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fab fa-github"></i>
@@ -116,9 +131,9 @@
         <div class="content has-text-centered">
           <div class="columns is-centered">
             <div class="column is-7">
-              <img class="image is-371x299" src="./static/images/teaserr.png" alt="Teaser">
+              <img class="image is-371x299" src="./static/images/teaser.png" alt="Teaser">
               <p>
-                ?
+                Teaser of  Le-RNR-Map
               </p>
             </div>
           </div>
@@ -138,7 +153,13 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            ?
+            We present Le-RNR-Map, a Language-enhanced Renderable Neural Radiance map for Visual Navigation with natural language query prompts.
+                 The recently proposed <a href="https://rllab-snu.github.io/projects/RNR-Map/">RNR-Map</a> employs a grid structure comprising latent codes positioned at each pixel.
+                These latent codes, which are derived from image observation, enable:
+                 <i>i)</i> image rendering given a camera pose, since they are converted to Neural Radiance Field;
+                 <i>ii)</i> image navigation and localization with astonishing accuracy. 
+                On top of this, we enhance <a href="https://rllab-snu.github.io/projects/RNR-Map/">RNR-Map</a> with CLIP-based embedding latent codes, 
+                allowing natural language search without additional label data.
          </p>
           
   
@@ -155,6 +176,23 @@
 
     <div class="columns is-centered">
 
+
+      <!-- Visual Effects. -->
+      <div class="column">
+        <div class="content">
+          <h2 class="title is-3">Examples</h2>
+          <!-- <p>
+            Using <i>nerfies</i> you can create fun visual effects. This Dolly zoom effect
+            would be impossible without nerfies since it would require going through a wall.
+          </p>
+          <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
+            <source src="./static/videos/dollyzoom-stacked.mp4"
+                    type="video/mp4">
+          </video> -->
+        </div>
+        <h2 class="title is-4">Negative Prompts</h2>
+      </div>
+      <!--  Visual Effects. -->
      
     </div>
 
