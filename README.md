@@ -23,11 +23,10 @@ If you find our work useful, please consider citing:
 ---
 ---
 
-# Original Implementation of Renderable Neural Radiance Map for Visual Navigation
-<h1 align="center">
+<h4 align="center"> Original Implementation of Renderable Neural Radiance Map for Visual Navigation </h4>
+<h4 align="center">
 Renderable Neural Radiance Map <br> for Visual Navigation‬ 
-</h1>
+</h4>
 
-<h3 align="center"><a href="https://arxiv.org/abs/2303.00304">Paper</a> | <a href="https://youtu.be/OSs7yLEDUrM">Video</a> | <a href="https://rllab-snu.github.io/projects/RNR-Map/">Project Page</a></h3>
-<div align="center">
-</div>
+<h4 align="center"><a href="https://arxiv.org/abs/2303.00304">Paper</a> | <a href="https://youtu.be/OSs7yLEDUrM">Video</a> | <a href="https://rllab-snu.github.io/projects/RNR-Map/">Project Page</a></h4>
+
