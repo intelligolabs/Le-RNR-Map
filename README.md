@@ -4,7 +4,9 @@ Language-enhanced RNR-Map: Querying Renderable Neural Radiance Field Maps with N
 
 <h3 align="center"><a href="https://arxiv.org/abs/2308.08854">Paper</a> | <a href="https://www.youtube.com/watch?v=UmIW3k0ZyDE">Video</a> | <a href="https://intelligolabs.github.io/Le-RNR-Map/">Project Page</a></h3>
 
-Code available soon.
+There are some issues regarding the release of the original RNR-Map code (see [here](https://github.com/rllab-snu/RNR-Map)).
+
+Please contact ```francesco.taioli@polito.it``` for the Le-RNR-Map code!
 
 ## Citing
 If you find our work useful, please consider citing:
