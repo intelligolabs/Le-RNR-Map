@@ -13,7 +13,7 @@ If you find our work useful, please consider citing:
 ```BibTeX
 @InProceedings{Taioli_2023_ICCV,
     author    = {Taioli, Francesco and Cunico, Federico and Girella, Federico and Bologna, Riccardo and Farinelli, Alessandro and Cristani, Marco},
-    title     = {Language-Enhanced RNR-Map: Querying Renderable Neural Radiance Field Maps with Natural Language},
+    title     = {{Language-Enhanced RNR-Map: Querying Renderable Neural Radiance Field Maps with Natural Language}},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
     month     = {October},
     year      = {2023},
