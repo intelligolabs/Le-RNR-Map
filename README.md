@@ -76,6 +76,10 @@ For the habitat setup visit the page https://github.com/facebookresearch/habitat
 - ```evaluation.py```: It performs an evaluation on the maps contained in the <em>lernr_maps</em> folder,
 - ```map_creation.py```: It generates lernr maps,
 - ```query_map.py```: It queries the maps on single or multi search.
+
+Download ```lernr_map``` from [here](https://drive.google.com/file/d/1slT7mH6fM2lkCC2hZG7ZGSNJm86QzABf/view?usp=sharing) and put it in the lernr_map folder.
+To download the ```pretrained``` ckpt, download the ckpt from [here](https://drive.google.com/file/d/1rF-_HIfkgN1loSdUf9peafd6R9WSRe08/view?usp=sharing) and put them inside the ```pretrained``` folder.
+
 # Launch map creation
 - Example:
 
